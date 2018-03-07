@@ -7,14 +7,12 @@ This sample demonstrates how to add a to-do-list application in javascript and h
 
 ## Set the Client ID, Domain, and API URL
 
+
 ## Set Up the `.env` File
 
 
 ## Run the Application
 
-
-
-## What is Auth0?
 
 
 ## Create an Account in Firebase
@@ -27,6 +25,6 @@ This sample demonstrates how to add a to-do-list application in javascript and h
 
 ## Author
 
-Vaisakh-RB
+[Vaisakh-RB](https://github.com/Vaisakh-RB/)
 
 ## License
