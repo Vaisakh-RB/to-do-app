@@ -1,9 +1,8 @@
-# Auth0 JavaScript Authorization
+# Javascript to-do-app
 
-This sample demonstrates how to add a to-do-list application in javascript and how to deploy this in firebase (https://firebase.google.com/)
+This sample demonstrates how to add a to-do-list application in javascript and how to deploy this in [firebase] (https://firebase.google.com/)
 
 ## Getting Started
-
 
 
 ## Set the Client ID, Domain, and API URL
@@ -24,7 +23,7 @@ This sample demonstrates how to add a to-do-list application in javascript and h
 
 ## Issue Reporting
 
-s.
+
 
 ## Author
 
