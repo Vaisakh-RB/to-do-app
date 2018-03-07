@@ -1,6 +1,6 @@
 # Javascript to-do-app
 
-This sample demonstrates how to add a to-do-list application in javascript and how to deploy this in [firebase] (https://firebase.google.com/)
+This sample demonstrates how to add a to-do-list application in javascript and how to deploy this in [firebase](https://firebase.google.com/)
 
 ## Getting Started
 
