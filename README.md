@@ -8,9 +8,6 @@ This sample demonstrates how to add a to-do-list application in javascript and h
 ## Set the Client ID, Domain, and API URL
 
 
-## Set Up the `.env` File
-
-
 ## Run the Application
 
 
