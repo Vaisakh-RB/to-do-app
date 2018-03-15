@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Logged In page</title>
+</head>
+<body>
+    <form action="/post-cred/" method="post" >
+        {% csrf_token %}
+        Email :
+        <input type="email" name="email">
+        Password :
+        <input type="password" name="password">
+
+        <input type="submit" value="signIn">
+    </form>
+</body>
+</html>
