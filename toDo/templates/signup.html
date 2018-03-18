@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Up Page</title>
+    <script></script>
+</head>
+<body>
+    {{ message }}
+    <form action="post-signup/" method="post">
+        {% csrf_token %}
+        <br/><br/>
+        Name :
+        <input type="text" name="name"> <br/><br/>
+        Email :
+        <input type="email" name="email">
+        <br/><br/>
+        Password :
+        <input type="password" name="password">
+        <br/><br/>
+        <input type="submit" name="SignUp">
+    </form>
+    <!--<input type="button" value="signUp" onclick="location.href ='{% url 'post_sign_up' %}' ">-->
+</body>
+</html>

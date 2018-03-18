@@ -1,0 +1,24 @@
+.container {
+    display: block;
+    width: 400px;
+    margin: 100px auto 0;
+  }
+.green-box-body {
+    border:1px;
+    color: green;
+    border-style: solid;
+    width: 400px;
+    height: 800px;
+}
+.green-box {
+    border:1px;
+    color: green;
+    border-style: solid;
+    width: 400px;
+}
+.main-alignment{
+    align-self: center
+}
+word-align{
+    word-wrap:normal;
+}

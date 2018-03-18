@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Welcome !!!!</title>
+    </head>
+    <body>
+        {% csrf_token %}
+        <span>
+            Welcome {{ email }}. Work Hard. Have good intentions.
+            <span>
+                <div class="side-panel">
+                    <button type="button" style="position: absolute; right: 10px; top: 5px;"
+                            onclick="location.href ='{% url 'logout_session' %}' "> Sign out</button>
+                </div>
+            </span>
+        </span>
+    </body>
+</html>
