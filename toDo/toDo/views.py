@@ -23,3 +23,5 @@ def post_login_credentials(request):
     user = auth.sign_in_with_email_and_password(email=email, password=password)
     return render(request, 'dashboard.html', context={'email': email})
 
+
+
